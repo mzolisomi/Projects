@@ -1,2 +1,2 @@
 # Projects
-Codsoft projeects
+Codsoft projects
