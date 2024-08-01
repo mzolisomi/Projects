@@ -2,10 +2,9 @@
  * @Author: Your name
  * @Date:   2024-07-31 15:07:54
  * @Last Modified by:   Your name
- * @Last Modified time: 2024-07-31 15:15:42
+ * @Last Modified time: 2024-08-01 06:24:05
  */
 'use strict';
-const body = document.getElementsByTagName('body')
-const div = createElement('div')
+const element = document.getElementsByTagName('hey')
+console.log(element)
 
-body.appendChild("div");
